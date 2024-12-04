@@ -6,7 +6,7 @@ I'm a Full Stack Developer interested in collabrating on exciting projects . Cur
 
 ## Technologies & Skills 🛠️
 
-- **Frontend**: HTML, CSS, Bootstrap, Angular, Angular Material, React
+- **Frontend**: HTML, CSS, Bootstrap, Javascript, Typescript Angular, Angular Material, React
 - **Backend**: Java, Spring MVC, Spring Security using JWT, Spring Boot, Spring Data JPA , Hibernate, Microservices
 - **Database**: MySQL, MongoDB
 - **Tools**: Maven, Postman, SonarQube, Redis, RabbitMQ, Splunk
