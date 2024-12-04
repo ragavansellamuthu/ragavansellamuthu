@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Ragavan
+# Hi there! 👋 I'm Ragavan Sellamuthu
 
 ## About Me 🌟
 
