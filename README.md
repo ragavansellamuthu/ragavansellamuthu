@@ -9,7 +9,7 @@ I'm a Full Stack Developer interested in collabrating on exciting projects . Cur
 - **Frontend**: HTML, CSS, Bootstrap, JavaScript, TypeScript, Angular, Angular Material, React
 - **Backend**: Java, Spring MVC, Spring Security using JWT, Spring Boot, Spring Data JPA , Hibernate, Microservices
 - **Database**: MySQL, MongoDB
-- **Tools**: Maven, Postman, SonarQube, Redis,Kafka, RabbitMQ, Splunk
+- **Tools**: Maven, Postman, SonarQube, Redis,Kafka, RabbitMQ, Splunk, Jenkins
 
 ## Interests 🤝
 
