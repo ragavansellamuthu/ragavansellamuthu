@@ -2,7 +2,7 @@
 
 ## About Me 🌟
 
-I'm a Full Stack Developer interested in collabrating on exciting projects . I'm currently exploring microservices & react framework to enhance my expertise. Always eager to tackle new challenges and contribute to dynamic teams.
+I'm a Full Stack Developer interested in collabrating on exciting projects . Currently, I’m exploring microservices architecture and advancing my skills in the React framework to stay at the forefront of technology. Always eager to learn, collaborate, and contribute to dynamic, innovative teams.
 
 ## Technologies & Skills 🛠️
 
