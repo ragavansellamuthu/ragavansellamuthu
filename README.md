@@ -20,7 +20,7 @@ I'm a Full Stack Developer interested in collabrating on exciting projects . Cur
 ## Contact 📫
 Feel free to reach out to me via :
 
-- Email: sellamuthuragavan@gmail.com
+- Alternate Email: sellamuthuragavan@gmail.com
 - Phone: +91 8778088268
 
 ##
