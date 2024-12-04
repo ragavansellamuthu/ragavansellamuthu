@@ -17,9 +17,3 @@ I'm a Full Stack Developer interested in collabrating on exciting projects . I'm
 - Open to freelance roles
 - Keen to stay updated with the latest advancements and best practices in the field.
 
-## Contact 📫
-
-Feel free to reach out to me via :
-- Email: sellamuthuragavan@gmail.com
-- Phone: +91 8778088268
-- LinkedIn: [Ragavan Sellamuthu](https://www.linkedin.com/in/ragavan-sellamuthu)
