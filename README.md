@@ -4,7 +4,7 @@
 
 ## About Me 🌟
 
-I'm a Full Stack Developer interested in collabrating on exciting projects . Currently, I’m exploring microservices architecture and advancing my skills in the React framework to stay at the forefront of technology. Always eager to learn, collaborate, and contribute to dynamic, innovative teams.
+I’m a Full Stack Engineer currently working in the tech industry, focusing on building and maintaining efficient and reliable solutions. I have experience with microservices architecture and am enhancing my skills in the React framework. I enjoy learning and contributing to collaborative team efforts to deliver meaningful results.
 
 ## Technologies & Skills 🛠️
 
