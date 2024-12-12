@@ -15,9 +15,9 @@ I’m a Full Stack Engineer focusing on building and maintaining efficient and r
 
 ## Interests 🤝
 
-- Excited to work on creative projects.
-- Open to freelance roles
-- Keen to stay updated with the latest advancements and best practices in the field.
+- Passionate about learning and exploring new technologies.
+- Open to engaging in technical discussions and knowledge sharing.
+- Interested in creating tech-related content and videos.
 
 ## Contact 📫
 Feel free to reach out to me via :
