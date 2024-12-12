@@ -1,11 +1,10 @@
 # Hi there! 👋 I'm Ragavan Sellamuthu
 
+<img src="https://github.com/trinhminhtriet/trinhminhtriet/blob/master/images/coding.gif" width="100%" height="400" alt="coding-gif" />
+
 ## About Me 🌟
 
 I'm a Full Stack Developer interested in collabrating on exciting projects . Currently, I’m exploring microservices architecture and advancing my skills in the React framework to stay at the forefront of technology. Always eager to learn, collaborate, and contribute to dynamic, innovative teams.
-
-##
-<img src="https://github.com/trinhminhtriet/trinhminhtriet/blob/master/images/coding.gif" width="100%" height="400" alt="coding-gif" />
 
 ## Technologies & Skills 🛠️
 
