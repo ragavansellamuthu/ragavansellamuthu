@@ -4,7 +4,7 @@
 
 ## About Me 🌟
 
-I’m a Full Stack Engineer focusing on building and maintaining efficient and reliable solutions. I am exploring microservices architecture and am enhancing my skills in the React framework. I enjoy learning and contributing to collaborative team efforts to deliver meaningful results.
+I’m a Full Stack Engineer focused on building efficient and reliable solutions. I’m exploring microservices architecture and improving my skills in React. I enjoy learning and working with teams to deliver great results. As a developer by profession and teacher by passion, I love sharing knowledge and helping others grow.
 
 ## Technologies & Skills 🛠️
 
